@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
-      "name": "miku-KernelSU",
-      "repo": "https://github.com/PhamtomK12/kernel_xiaomi_odin",
-      "branch": "TDA",
-      "device": "odin"
+      "name": "KernelSU",
+      "repo": "https://github.com/MrFluffyOven/android_kernel_samsung_t618.git",
+      "branch": "A14",
+      "device": "gta8"
     },
     "withKernelSU": true,
     "toolchains": [
