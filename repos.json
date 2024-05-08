@@ -22,7 +22,7 @@
       "ARCH": "arm64",
       "CROSS_COMPILE": "aarch64-linux-android--",
       "CLANG_TRIPLE": "aarch64-linux-gnu-",
-      "LD": "ld.lld",
+      "AR": "AR",
       "CC": "clang"
     }
   }
